@@ -35,3 +35,10 @@ html {
     top: 0;
     left: 0;
 }
+
+.red-bg button {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+}
