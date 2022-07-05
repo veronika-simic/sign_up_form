@@ -24,4 +24,14 @@ html {
     background-color: #eee;
     border-radius: 3rem;
     box-shadow:  0 2rem 6rem rgba(0,0,0,0.3);
+    position: relative;
+}
+
+.red-bg {
+    width: 40%;
+    height: 100%;
+    background: linear-gradient(to right, #8B0000, #B22222);
+    position: absolute;
+    top: 0;
+    left: 0;
 }
