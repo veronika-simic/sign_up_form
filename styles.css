@@ -27,6 +27,18 @@ html {
     position: relative;
 }
 
+.banner {
+    position: absolute;
+    top: 25%;
+    left: 5rem;
+    text-align: center;
+    color: white;
+    width: 30rem;
+    z-index: 2;
+}
+
+
+
 .red-bg {
     width: 40%;
     height: 100%;
