@@ -41,4 +41,14 @@ html {
     top: 60%;
     left: 50%;
     transform: translateX(-50%);
+    width: 16rem;
+    height: 5rem;
+    background-color: transparent;
+    border: 0.1rem solid white;
+    border-radius: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    color: white;
+    cursor: pointer;
+
 }
