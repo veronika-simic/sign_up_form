@@ -135,3 +135,15 @@ html {
     color: #555 ;
 }
 
+.sign-up button {
+    width: 16rem;
+    height: 5rem;
+    background-color: #B22222;
+    border: none;
+    border-radius: 3rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    color: #fff;
+    margin-top: 3rem;
+    cursor: pointer;
+}
