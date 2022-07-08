@@ -101,4 +101,14 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 2rem;
+    font-size: 2rem;
+    color: #555;
 }
+
+.sign-up p{
+    font-size: 1.8rem;
+    color: #555;
+    margin-bottom: 2rem;
+}
+
