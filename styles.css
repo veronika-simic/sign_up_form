@@ -37,8 +37,13 @@ html {
     z-index: 2;
 }
 
-
-
+.banner h1 {
+    font-size: 4rem;
+    margin-bottom: 3rem;
+}
+.banner p {
+    font-size: 2rem;
+}
 .red-bg {
     width: 40%;
     height: 100%;
@@ -63,4 +68,18 @@ html {
     color: white;
     cursor: pointer;
 
+}
+
+.sign-up{
+    width: 60rem;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10rem 0;
+   
 }
