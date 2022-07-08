@@ -83,3 +83,8 @@ html {
     padding: 10rem 0;
    
 }
+
+.sign-up h1 {
+    font-size: 4rem;
+    color: #8B0000;
+}
