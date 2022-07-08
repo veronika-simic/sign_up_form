@@ -112,3 +112,11 @@ html {
     margin-bottom: 2rem;
 }
 
+.input-group input {
+    width: 28rem;
+    height: 5rem;
+    padding: 1rem 1rem 1rem 3rem;
+    background-color: #ddd;
+    border: none;
+    border-radius: 0.5rem;
+}
