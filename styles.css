@@ -36,6 +36,12 @@ html {
     color: white;
     width: 30rem;
     z-index: 2;
+    transition: left 0.8s;
+}
+
+.container.change .banner {
+    left: 5rem;
+
 }
 
 .banner h1 {
@@ -53,6 +59,13 @@ html {
     top: 0;
     left: 0;
     z-index: 50;
+    transition: width 1.5s cubic-bezier(.19, 1, 0.22, 1);
+}
+
+.container.change .red-bg {
+    width: 40%;
+
+
 }
 
 .red-bg button {
@@ -72,7 +85,7 @@ html {
 
 }
 
-.sign-up{
+.sign-up {
     width: 60rem;
     height: 100%;
     position: absolute;
@@ -83,8 +96,13 @@ html {
     justify-content: space-around;
     align-items: center;
     padding: 10rem 0;
+    transition: left 1.5s cubic-bezier(0.19, 1, 0.22, 1);
    
 }
+
+.container.change .sign-up {
+    left: 40rem;
+  }
 
 .sign-up h1 {
     font-size: 4rem;
