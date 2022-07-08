@@ -86,5 +86,19 @@ html {
 
 .sign-up h1 {
     font-size: 4rem;
-    color: #8B0000;
+    color: #8B0000; 
+}
+
+.social-media {
+    display: flex;
+}
+
+.social-media i {
+    width: 4rem;
+    height: 4rem;
+    border: .1rem solid #777;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
