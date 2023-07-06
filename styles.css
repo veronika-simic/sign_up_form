@@ -70,7 +70,7 @@ html {
 
 .red-bg button {
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 50%;
     transform: translateX(-50%);
     width: 16rem;
@@ -164,6 +164,5 @@ html {
     text-transform: uppercase;
     letter-spacing: .1rem;
     color: #fff;
-    margin-top: 3rem;
     cursor: pointer;
 }
